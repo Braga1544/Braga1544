@@ -8,7 +8,7 @@ AI engineer building multi-agent systems, MCP tooling and the software around th
 - **MCP & agent tooling** — MCP servers, tool design and agent skills for coding assistants
 - **Process automation** — LLM-driven document processing, alerting and workflow automation
 - **Full-stack** — APIs, web apps and the infrastructure to run them
-- 
+
 ## Stack
  
 | Area | Tools |
